@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This document describes how your personal information in handled in this app.
+This document describes how your personal information is handled in this app.
 
 ## This app doesn't collect any data
 
